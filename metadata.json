@@ -1,0 +1,9 @@
+{
+  "name": "copy of Accessibility Lens AI",
+  "description": "A real-time assistive companion for blind and low-vision users, providing scene understanding, safety alerts, and guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
